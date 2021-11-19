@@ -77,7 +77,7 @@
         <h1>Bilal Ubaidulaev<br>Web junior Developer and designer</h1>
         <h3>Can change your vision about web developing!</h3>
         <p> I'm creating my new style.</p>
-        <img src="gg.png" alt='Bilal' style='width:200px;height:200px;  margin-left: 900px;'> 
+        <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/37/Jumpman_logo.svg/1200px-Jumpman_logo.svg.png" alt='Bilal' style='width:200px;height:200px;  margin-left: 900px;'> 
 		<form action='https://github.com/DJ-FLASH/Blacksite/edit/main/README.md' target='_blank'>
         <button class="button button1">Github</button>
         </form>
